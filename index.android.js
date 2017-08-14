@@ -11,7 +11,7 @@ import {
 	Text,
 	View
 } from 'react-native';
-import MapScreen from './src/components/MapScreen';
+import MapScreen from './MapScreen';
 
 export default class FireMap5 extends Component {
 	render() {
